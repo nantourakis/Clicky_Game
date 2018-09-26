@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "name": "Thor",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Superman",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Flash",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Ironman",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "GreenLantern",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Spiderman",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Hulk",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Wolverine",
+    "clicked": false
+  }
+]
